@@ -1,0 +1,2 @@
+# aws_sagemaker_cifar100_pytorch_lighning_training
+Cifar100 pytorch lightnning training on AWS Sagemaker
